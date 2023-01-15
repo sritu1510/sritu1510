@@ -19,6 +19,9 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 1 project (Web scra
 - Found Answers like Most popular songs, Popular artist, which song has highest duration_ms etc.
 
 
+
+
+
 - 🌱 I’m currently learning Machine Learning
 - 👨‍💻 All of my projects are available at [Jovian ](https://jovian.com/sritu1510)
 - 💬 Ask me about **MySQL, Python, Statistics, Web scrapping, EDA**
