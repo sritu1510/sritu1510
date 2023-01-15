@@ -1,36 +1,26 @@
-EDUCATION
-Data Science Bootcamp, Jovian                                                                                                                         May 2022- Ongoing
+### Hi there 👋 I am Ritu
+## 🔭 I’m currently pursuing Data Science Bootcamp, Jovian
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
-Highlights: 600+ hours of coursework, 10 coding assignments, 1 project (Web scraping)
+Highlights: 600+ hours of coursework, 10 coding assignments, 1 project (Web scraping).
 
-Jagannath University, Delhi                                                                                                                                 2019 - 2021
-Master of Business Administration, Finance Management 
+**Web Scraping IMDb Top 250 movies using Python** ([View](https://jovian.ai/sritu1510/scraping-imdb-top-250-movies))
+- Scraped IMDb official site to get Top ranking movies on trend using requests, BeautifulSoup
+- Built the functions get_movie_page & get_movie_details to scrape movie name, url, rating, genre etc
+- Generated a CSV file with 250 Rows & 8 columns and this enabled to get all information in 1 page
 
-Shyama Prasad Mukherjee College, Delhi University                                                                                                           2014 - 2018
-B.A. Graduate
+**Bookshop Data Analysis using Excel & Tableau** ([View](https://public.tableau.com/app/profile/ritu3822/viz/Assignment_16605854170750/Dashboard))
+- Loaded bookshop data into Excel and create new sheets using Pivot table & VLOOKUP for analysis
+- Import Excel workbook into Tableau Public & set up relationships between appropriate tables 
+- Worked on 4 types of interactive graphs & created a dashboard with filters (dropdowns, sliders, etc.)
 
-Skills: SQL, Python , Presentation, Numpy, Pandas, Excel, Tableau, Matplotlib, Plotly
+**Exploratory Data Analysis and Visualization of Spotify** ([View](https://jovian.ai/sritu1510/newbook))
+- Cleaned & analyzed Spotify Huge Dataset from Kaggle which has 10000+ rows and 12 columns
+- Visualized (Line Chart, Bar graph, Scatter plot, Pie chart and Histogram) done using Pandas, Seaborn Matplotlib and Plotly libraries.
+- Found Answers like Most popular songs, Popular artist, which song has highest duration_ms etc.
 
-PROJECTS 
-Web Scraping IMDb Top 250 movies using Python (View)
-Scraped IMDb official site to get Top ranking movies on trend using requests, Beautifulsoup
-Parsed 2 web pages using Python libraries such as requests, BeautifulSoup and Pandas
-Generated a CSV file with 250 Rows & 8 columns and this enabled to get all information in 1 page
 
-SQL, Excel and Tableau(View)
-Extract Data from bookshop Sample Database.
-Import the Excel workbook into Tableau Public and set up relationships between appropriate tables by Join Methods.
-Created 4 different types of interactive visualizations and stored them in Dashboard. Also added some filters that can be modified using dropdowns, sliders, etc.
-
-WORK EXPERIENCE
-
-Relationship Officer, Axis Bank Ltd                      				                               July 2021- Ongoing
-Responsible for sales of pre-approved used car loan clients.
-Key skills provide information online platform mobile banking and net banking 
-Could able to deliver the data in 1.5x than before and that helped increase the company’s revenue
-
-Junior Associate, Kotak Mahindra Bank Ltd.	                                                                       Sep 2017- Jul 2021 
-Improved on key skills through my organisation platform for personal loan  
-Organization channels handled through documentation and file as well as.
-Promoted as a Junior associate- On roll (Grade D0) on behalf of good performance.                                                                            
-
+- 🌱 I’m currently learning Machine Learning
+- 👨‍💻 All of my projects are available at [Jovian ](https://jovian.com/sritu1510)
+- 💬 Ask me about **MySQL, Python, Statistics, Web scrapping, EDA**
+- 📫 How to reach me: sritu1510@gmail.com
+- 📄 My resume [Resume](https://docs.google.com/document/d/1kJb5BrJjao4pEqqNvosqaGDDyyCYRbPHREVdbAlpDU4/edit#)
