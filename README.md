@@ -19,6 +19,9 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 1 project (Web scra
 - Found Answers like Most popular songs, Popular artist, which song has highest duration_ms etc.
 
 
+### Skills
+
+- SQL, Python , Presentation , Numpy, Pandas, Excel, Tableau, Matplotlib, Plotly, Seaborn 
 
 
 
@@ -28,6 +31,3 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 1 project (Web scra
 - 📫 How to reach me: sritu1510@gmail.com
 - 📄 My resume [Resume](https://docs.google.com/document/d/1kJb5BrJjao4pEqqNvosqaGDDyyCYRbPHREVdbAlpDU4/edit#)
 
-### Skills
-
-- SQL, Python , Presentation , Numpy, Pandas, Excel, Tableau, Matplotlib, Plotly, Seaborn 
