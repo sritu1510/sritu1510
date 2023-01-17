@@ -27,3 +27,7 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 1 project (Web scra
 - 💬 Ask me about **MySQL, Python, Statistics, Web scrapping, EDA**
 - 📫 How to reach me: sritu1510@gmail.com
 - 📄 My resume [Resume](https://docs.google.com/document/d/1kJb5BrJjao4pEqqNvosqaGDDyyCYRbPHREVdbAlpDU4/edit#)
+
+### Skills
+
+- SQL, Python , Presentation , Numpy, Pandas, Excel, Tableau, Matplotlib, Plotly, Seaborn 
